@@ -1,0 +1,6 @@
+<!DOCTYPE HTML><script>
+javascript: function privetik(){
+var hii=window.prompt("Hi, we are random students who love cucumbers!\nWhats your name?","");
+output='<div>Hi,'+hii+'</div>';
+}privetik();
+</script></html>
